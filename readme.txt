@@ -20,6 +20,9 @@ This application is designed to scan a directory and its subdirectories, identif
 - Git for cloning the repository (if applicable).
 
 #Installations
+-Clone the Repository First, clone the repository to your local machine:
+	- git clone https://github.com/sunilpattar99/file-scanner.git
+- Open the solution file available inside file-scanner/FileScanner using VS2022 or any other IDE for Dotnet, make sure to install the Dotnet 8 runtime and SDK before itself.
 
 #Multithreading
 - Currently the application is not multi threaded, but can be made mutithreaded using Parallel.ForEach loops, this way we can optimize the applications even further.
