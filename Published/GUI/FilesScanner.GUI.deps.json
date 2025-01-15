@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FilesScanner.GUI/1.0.0": {
+        "dependencies": {
+          "FilesScanner.Common": "1.0.0"
+        },
+        "runtime": {
+          "FilesScanner.GUI.dll": {}
+        }
+      },
+      "FilesScanner.Common/1.0.0": {
+        "runtime": {
+          "FilesScanner.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FilesScanner.GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FilesScanner.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

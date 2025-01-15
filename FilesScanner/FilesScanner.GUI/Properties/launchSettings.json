@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FilesScanner.GUI": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\Self_projects\\FileScanner\\Projects"
+    }
+  }
+}

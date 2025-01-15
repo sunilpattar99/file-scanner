@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FilesScanner.ConsoleApplication": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\Self_projects\\FileScanner\\Projects"
+    }
+  }
+}
